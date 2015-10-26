@@ -9,6 +9,7 @@
 	background-image: url("images/fruit-and-veg.jpg");
 	background-size: cover;
 	background-attachment: fixed;
+	font-size: 21px;
 }
 
 .jumbotron h1 {
@@ -28,9 +29,22 @@
   color: white;
 }
 
+.form-control { 
+	min-width: 320px;
+	height: 34px;
+	padding: 6px 12px;
+	font-size: 14px;
+}
+
+
 #mission {
 	background-color: rgba(32,35,41,.9);
 	color: #ddd;
+	padding-bottom: 40px;
+}
+
+h2 {
+    margin-bottom: 1.5em;
 }
 
 #social-buttons {
