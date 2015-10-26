@@ -1,0 +1,54 @@
+
+.navbar-inverse {
+  background-color: rgba(32, 35, 41,0.8);
+}
+
+.jumbotron {
+	padding-top: 90px;
+	min-height: 600px;
+	background-image: url("images/fruit-and-veg.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.jumbotron h1 {
+	font-family: 'Vast Shadow', cursive;
+	color: white;
+}
+
+.jumbotron img {
+    margin-top: 50px;
+}
+
+.jumbotron .form-group {
+  line-height: 1em;
+}
+
+.jumbotron label {
+  color: white;
+}
+
+#mission {
+	background-color: rgba(32,35,41,.9);
+	color: #ddd;
+}
+
+#social-buttons {
+	color: white;
+}
+
+.btn-twitter {
+	background-color: #00acee;
+	border-color: #009ad5;
+}
+
+.btn-facebook {
+	background-color: #4863ac;
+	border-color: #314776;
+}
+
+.btn-pinterest {
+	background-color: #b62f26;
+	border-color: #b62f26;
+}
+
